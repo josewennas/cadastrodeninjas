@@ -10,4 +10,11 @@ public class CadastroDeNinjasApplication {
 		SpringApplication.run(CadastroDeNinjasApplication.class, args);
 	}
 
+    //olá Wennas!
+    int numero = 6;
+    int soma;
+    public int soma(){
+        return soma = numero + numero;
+    }
+
 }
