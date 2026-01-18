@@ -17,4 +17,10 @@ public class CadastroDeNinjasApplication {
         return soma = numero + numero;
     }
 
+    int divisao;
+
+    public int divisao(){
+        return divisao = numero / 2 ;
+    }
+
 }
