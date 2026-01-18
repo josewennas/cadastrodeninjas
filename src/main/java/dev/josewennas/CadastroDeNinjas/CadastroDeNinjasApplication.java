@@ -23,4 +23,10 @@ public class CadastroDeNinjasApplication {
         return divisao = numero / 2 ;
     }
 
+    int multiplicacao;
+
+    public int multiplicacao(){
+        return multiplicacao = numero * 2;
+    }
+
 }
