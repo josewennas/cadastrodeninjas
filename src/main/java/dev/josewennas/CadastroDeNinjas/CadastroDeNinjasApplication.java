@@ -29,4 +29,12 @@ public class CadastroDeNinjasApplication {
         return multiplicacao = numero * 2;
     }
 
+    public int maiorMenor(){
+        if(multiplicacao > 0){
+            return multiplicacao;
+        }else {
+            return soma;
+        }
+    }
+
 }
